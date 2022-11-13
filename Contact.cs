@@ -15,5 +15,6 @@ namespace AddressBookSystemm
         public string city;
         public string state;
         public int zipcode;
+        public string email;
     }
 }
